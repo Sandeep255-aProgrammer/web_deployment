@@ -1,0 +1,6 @@
+1 : Git and Github
+2: gunicon
+3 : Database SQLite
+4: HEROKU
+5 : Postgre SQL
+
